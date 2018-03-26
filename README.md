@@ -1,1 +1,1 @@
-Banana
+print = Banana
